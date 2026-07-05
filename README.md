@@ -1,4 +1,5 @@
-[LINK PARA O CÓDIGO]()
+[LINK PARA O LAYOUT]( https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formed-Dia--?node-id=0-1&p=f&t=pPV0uGzFGhpLgyk0-0)
+
 [LINK DEMONSTRAÇÃO]()
 
 
